@@ -1,4 +1,4 @@
-#Project Helios
+# Project Helios
 
 **Project Helios** is a solo-developed story-driven 3D action RPG set in a sci-fi fantasy world ravaged by Ether-based corruption. Inspired by 90s anime environments and 2010s anime-style characters, this game blends narrative exploration with fast-paced, real-time combat.
 
