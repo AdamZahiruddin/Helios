@@ -66,6 +66,7 @@ I will update this repo regularly with:
 - Notes and diagrams
 - Progress logs
 
+## I am also open to any collaboration, just email me at [adam.azwan04@gmail.com](mailto:adam.azwan04@gmail.com)
 Stay tuned for the next phase!
 
 ---
