@@ -17,7 +17,7 @@ An ambitious solo-developed 3D JRPG where players explore a shattered world fuel
 
 ## 🧑‍💻 Want to Contribute?
 While this is a solo-driven passion project, I'm open to:
-- Collaborating with composers
+- Collaborating with other developers
 - Getting animation or feedback help
 - Playtesting and feedback once the demo is live
 
