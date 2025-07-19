@@ -22,7 +22,7 @@ The game is being built with **Unity** and all assets will be created in-house u
 
 | Document Type     | Link |
 |-------------------|------|
-| 📘 Game Proposal (Final) | [Project Helios Proposal PDF]([https://drive.google.com/file/d/1-f8RM8XHjlBzWnIgJIARb9tWtfe9RS_LQOiDFgDuAxI/view?usp=sharing)](https://docs.google.com/document/d/1-f8RM8XHjlBzWnIgJIARb9tWtfe9RS_LQOiDFgDuAxI/edit?usp=sharing) |
+| 📘 Game Proposal (Final) | [Project Helios Proposal PDF](https://docs.google.com/document/d/1-f8RM8XHjlBzWnIgJIARb9tWtfe9RS_LQOiDFgDuAxI/edit?usp=sharing) |
 | 📒 Concept Art Document | *(Coming soon)* |
 | 📕 Design Document | *(Coming soon)* |
 | 🧠 Combat System Notes | *(Coming soon)* |
