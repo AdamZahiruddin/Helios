@@ -1,4 +1,4 @@
-# 🌞 Project Helios
+#Project Helios
 
 **Project Helios** is a solo-developed story-driven 3D action RPG set in a sci-fi fantasy world ravaged by Ether-based corruption. Inspired by 90s anime environments and 2010s anime-style characters, this game blends narrative exploration with fast-paced, real-time combat.
 
@@ -23,9 +23,9 @@ The game is being built with **Unity** and all assets will be created in-house u
 | Document Type     | Link |
 |-------------------|------|
 | 📘 Game Proposal (Final) | [Project Helios Proposal PDF]([https://drive.google.com/file/d/1-f8RM8XHjlBzWnIgJIARb9tWtfe9RS_LQOiDFgDuAxI/view?usp=sharing)](https://docs.google.com/document/d/1-f8RM8XHjlBzWnIgJIARb9tWtfe9RS_LQOiDFgDuAxI/edit?usp=sharing) |
-| 📒 Concept Document | *(Coming soon)* |
+| 📒 Concept Art Document | *(Coming soon)* |
+| 📕 Design Document | *(Coming soon)* |
 | 🧠 Combat System Notes | *(Coming soon)* |
-| 🎨 Moodboard & References | *(Coming soon)* |
 
 ---
 
