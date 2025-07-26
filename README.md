@@ -31,7 +31,7 @@ The game is being built with **Unity** and all assets will be created in-house u
 ---
 
 ## 🎮 Planned Features (Full Game)
-- 8-chapter main questline
+- 10-chapter main questline
 - Semi-open zone exploration
 - Companion-based real-time combat
 - Gear + skill customization
@@ -43,7 +43,7 @@ The game is being built with **Unity** and all assets will be created in-house u
 
 ## ⏳ Demo Goal
 
-🎯 **4-hour public demo by October 1, 2025**
+🎯 **8-hour public demo by October 1, 2025**
 
 The demo will contain:
 - 1 full story chapter
